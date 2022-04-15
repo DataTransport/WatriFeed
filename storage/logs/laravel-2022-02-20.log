@@ -1,0 +1,28 @@
+[2022-02-20 21:18:15] production.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/M...', 122, Array)
+#1 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 /Applications/MAMP/htdocs/laravel/watrifeed-php/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2022-02-20 21:20:33] production.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php:122)
+[stacktrace]
+#0 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/Applications/M...', 122, Array)
+#1 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Support/Collection.php(1197): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(210): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(322): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 /Applications/MAMP/htdocs/laravel/watrifeed-php/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 /Applications/MAMP/htdocs/laravel/watrifeed-php/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
