@@ -1,0 +1,7 @@
+[24-Jan-2020 03:14:09 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 19
+[24-Jan-2020 05:41:40 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 19
+[29-Jan-2020 09:42:13 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 19
+[30-Jan-2020 16:38:42 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 19
+[10-Mar-2020 21:13:51 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 20
+[12-Mar-2020 15:47:47 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 20
+[19-Apr-2020 11:12:58 Europe/Paris] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/cp1006287/public_html/watrifeed.ml/app/Http/Controllers/Api/ApiController.php on line 20

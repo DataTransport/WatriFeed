@@ -1,0 +1,5 @@
+id,fare_id,route_id,origin_id,destination_id,contains_id
+1,p,AB,,,
+2,p,STBA,,,
+3,p,BFC,,,
+4,a,AAMV,,,

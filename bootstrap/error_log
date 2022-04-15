@@ -1,0 +1,32 @@
+[18-Dec-2019 20:31:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[24-Dec-2019 08:12:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[26-Jan-2020 09:21:02 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[28-Jan-2020 00:06:18 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[01-Mar-2020 04:38:25 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[02-Mar-2020 10:26:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[01-Apr-2020 23:47:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[07-Apr-2020 18:55:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="500px" viewBox="0 0 240 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>naonedbus-ccm-part1-services</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="40" rx="2"></rect>
+        <rect id="path-2" x="0" y="0" width="80" height="40" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="80" height="40" rx="2"></rect>
+        <rect id="path-4" x="0" y="0" width="80" height="100" rx="2"></rect>
+        <rect id="path-5" x="0" y="0" width="80" height="40" rx="2"></rect>
+        <rect id="path-6" x="0" y="0" width="80" height="100" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="naonedbus-ccm-part1-services">
+            <g id="Group" transform="translate(20.000000, 20.000000)">
+                <g id="Route">
+                    <g id="Rectangle">
+                        <use fill="#B39DDB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#673AB7" stroke-width="1" x="0.5" y="0.5" width="79" height="39" rx="2"></rect>
+                    </g>
+                    <text font-family="Programme-Light, Programme" font-size="14" font-weight="300" fill="#FFFFFF">
+                        <tspan x="21" y="24">Route</tspan>
+                    </text>
+                </g>
+                <g id="Service" transform="translate(40.000000, 60.000000)">
+                    <g id="Rectangle">
+                        <use fill="#B39DDB" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#673AB7" stroke-width="1" x="0.5" y="0.5" width="79" height="39" rx="2"></rect>
+                    </g>
+                    <text font-family="Programme-Light, Programme" font-size="14" font-weight="300" fill="#FFFFFF">
+                        <tspan x="18" y="24">Service</tspan>
+                    </text>
+                </g>
+                <g id="Direction-A" transform="translate(80.000000, 120.000000)">
+                    <g id="Rectangle">
+                        <use fill="#B39DDB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#673AB7" stroke-width="1" x="0.5" y="0.5" width="79" height="39" rx="2"></rect>
+                    </g>
+                    <text id="Direction" font-family="Programme-Light, Programme" font-size="14" font-weight="300" fill="#FFFFFF">
+                        <tspan x="12" y="24">Direction</tspan>
+                    </text>
+                </g>
+                <g id="Arrêts-A" transform="translate(120.000000, 180.000000)">
+                    <g id="Rectangle">
+                        <use fill="#B39DDB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#673AB7" stroke-width="1" x="0.5" y="0.5" width="79" height="99" rx="2"></rect>
+                    </g>
+                    <g id="trip" transform="translate(32.000000, 12.000000)" stroke="#FFFFFF">
+                        <path d="M8,8 L8,68" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                        <circle id="Oval" fill="#D3C6EA" cx="8" cy="8" r="8"></circle>
+                        <circle id="Oval" fill="#D3C6EA" cx="8" cy="68" r="8"></circle>
+                        <circle id="Oval" fill="#D3C6EA" cx="8" cy="38" r="5"></circle>
+                    </g>
+                </g>
+                <g id="Direction-A" transform="translate(80.000000, 300.000000)">
+                    <g id="Rectangle">
+                        <use fill="#B39DDB" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#673AB7" stroke-width="1" x="0.5" y="0.5" width="79" height="39" rx="2"></rect>
+                    </g>
+                    <text id="Direction" font-family="Programme-Light, Programme" font-size="14" font-weight="300" fill="#FFFFFF">
+                        <tspan x="12" y="24">Direction</tspan>
+                    </text>
+                </g>
+                <g id="Arrêts-A" transform="translate(120.000000, 360.000000)">
+                    <g id="Rectangle">
+                        <use fill="#B39DDB" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <rect stroke="#673AB7" stroke-width="1" x="0.5" y="0.5" width="79" height="99" rx="2"></rect>
+                    </g>
+                    <g id="trip" transform="translate(32.000000, 12.000000)" stroke="#FFFFFF">
+                        <path d="M8,8 L8,68" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                        <circle id="Oval" fill="#D3C6EA" cx="8" cy="8" r="8"></circle>
+                        <circle id="Oval" fill="#D3C6EA" cx="8" cy="68" r="8"></circle>
+                        <circle id="Oval" fill="#D3C6EA" cx="8" cy="38" r="5"></circle>
+                    </g>
+                </g>
+            </g>
+            <polyline id="Line" stroke="#673AB7" stroke-width="2" stroke-linecap="square" points="40 60 40 100 60 100"></polyline>
+            <polyline id="Line" stroke="#673AB7" stroke-width="2" stroke-linecap="square" points="80 120 80 340 100 340"></polyline>
+            <path d="M120,180 L120,220 L140,220 M80,120 L80,160 L100,160" id="Line" stroke="#673AB7" stroke-width="2" stroke-linecap="square"></path>
+            <polyline id="Line" stroke="#673AB7" stroke-width="2" stroke-linecap="square" points="120 361 120 401 140 401"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,120 @@
+[23-Dec-2019 13:14:51 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 18
+[25-Dec-2019 21:21:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[26-Dec-2019 01:46:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 16
+[26-Dec-2019 04:31:18 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 16
+[27-Dec-2019 07:22:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[03-Jan-2020 21:13:25 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 22
+[04-Jan-2020 01:25:55 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[04-Jan-2020 14:08:43 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[27-Jan-2020 06:32:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 24
+[01-Feb-2020 01:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 17
+[02-Feb-2020 04:19:16 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[02-Feb-2020 04:50:22 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[04-Feb-2020 02:26:42 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[04-Feb-2020 21:22:03 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 17
+[10-Feb-2020 02:38:55 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[11-Feb-2020 22:33:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 24
+[04-Mar-2020 01:36:56 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 24
+[07-Mar-2020 04:25:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[07-Mar-2020 19:14:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[09-Mar-2020 23:37:08 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[12-Mar-2020 06:45:43 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 17
+[12-Mar-2020 13:55:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 17
+[19-Mar-2020 11:37:50 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 24
+[20-Mar-2020 02:54:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[09-Apr-2020 07:17:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 24
+[13-Apr-2020 00:11:40 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[14-Apr-2020 14:31:16 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/cp1006287/public_html/watrifeed.ml/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/console.php on line 16
+[15-Apr-2020 00:33:49 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/channels.php on line 14
+[19-Apr-2020 02:22:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 17
+[20-Apr-2020 14:26:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cp1006287/public_html/watrifeed.ml/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/routes/api.php on line 17

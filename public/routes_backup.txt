@@ -1,0 +1,6 @@
+id,route_id,route_short_name,route_long_name,route_desc,route_type,gtfs
+1,AB,10,Airport - Bullfrog,,3,test3
+2,BFC,20,Bullfrog - Furnace Creek Resort,,3,test3
+3,STBA,30,Stagecoach - Airport Shuttle,,3,test3
+4,CITY,40,City,,3,test3
+5,AAMV,50,Airport - Amargosa Valley,,3,test3

@@ -1,0 +1,35 @@
+[06-Dec-2019 21:49:24 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[06-Dec-2019 21:49:24 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[31-Dec-2019 20:26:02 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[31-Dec-2019 20:26:02 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[13-Jan-2020 21:21:27 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[13-Jan-2020 21:21:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[07-Feb-2020 12:49:07 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[07-Feb-2020 12:49:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[21-Feb-2020 18:18:41 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[21-Feb-2020 18:18:41 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[24-Mar-2020 07:59:47 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[24-Mar-2020 07:59:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[04-Apr-2020 00:40:56 Europe/Paris] PHP Notice:  Undefined variable: factory in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16
+[04-Apr-2020 00:40:56 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/database/factories/UserFactory.php on line 16

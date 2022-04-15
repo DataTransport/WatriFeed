@@ -1,0 +1,3 @@
+id,service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1,FULLW,1,1,1,1,1,1,1,20070101,20101231
+2,WE,0,0,0,0,0,1,1,20070101,20101231

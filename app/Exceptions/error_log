@@ -1,0 +1,6 @@
+[04-Jan-2020 04:37:47 Europe/Paris] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/cp1006287/public_html/watrifeed.ml/app/Exceptions/Handler.php on line 8
+[04-Jan-2020 17:11:33 Europe/Paris] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/cp1006287/public_html/watrifeed.ml/app/Exceptions/Handler.php on line 8
+[10-Feb-2020 04:31:56 Europe/Paris] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/cp1006287/public_html/watrifeed.ml/app/Exceptions/Handler.php on line 8
+[10-Feb-2020 04:32:50 Europe/Paris] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/cp1006287/public_html/watrifeed.ml/app/Exceptions/Handler.php on line 8
+[25-Mar-2020 21:15:40 Europe/Paris] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/cp1006287/public_html/watrifeed.ml/app/Exceptions/Handler.php on line 8
+[26-Mar-2020 02:55:07 Europe/Paris] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/cp1006287/public_html/watrifeed.ml/app/Exceptions/Handler.php on line 8

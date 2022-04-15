@@ -1,0 +1,21 @@
+[05-Dec-2019 00:52:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5459968 bytes) in /home/cp1006287/public_html/watrifeed.ml/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Dec-2019 00:53:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5459968 bytes) in /home/cp1006287/public_html/watrifeed.ml/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Dec-2019 00:53:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5459968 bytes) in /home/cp1006287/public_html/watrifeed.ml/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Dec-2019 00:53:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5459968 bytes) in /home/cp1006287/public_html/watrifeed.ml/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[05-Dec-2019 00:54:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5459968 bytes) in /home/cp1006287/public_html/watrifeed.ml/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[26-Dec-2019 19:18:34 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/cp1006287/public_html/watrifeed.ml/routes/web.php on line 20
+[19-Feb-2020 18:25:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 /home/cp1006287/public_html/watrifeed.ml/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[19-Feb-2020 18:28:53 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 /home/cp1006287/public_html/watrifeed.ml/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
+[19-Feb-2020 18:29:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php:14
+Stack trace:
+#0 /home/cp1006287/public_html/watrifeed.ml/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/cp1006287/public_html/watrifeed.ml/bootstrap/app.php on line 14
